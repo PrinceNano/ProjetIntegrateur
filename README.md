@@ -14,15 +14,15 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 ## Livrables :
 ## Montage et schéma logique
 
-[Montage du circuit]()
+[Montage du circuit](https://cdn.discordapp.com/attachments/589898423646420994/589932545106378858/Montage_et_description.pdf)
 
-[Schéma Logique des moteurs de droits](https://cdn.discordapp.com/attachments/589898423646420994/589914812503294131/Moteurs_droits.circ)
+[Schéma Logique des moteurs de droites](https://cdn.discordapp.com/attachments/589898423646420994/589914812503294131/Moteurs_droits.circ)
 
 [Schéma Logique des moteurs de gauches](https://cdn.discordapp.com/attachments/589898423646420994/589914884792385546/Moteurs_gauches.circ)
 
 ### Les différents Composants avec descriptions :
 
-[Tous les composants (Avec description)]()
+[Tous les composants (Avec fonctionnalités)](https://cdn.discordapp.com/attachments/589898423646420994/589932578937503745/Tous_les_composants.pdf)
 
 [Budget](https://cdn.discordapp.com/attachments/589898423646420994/589918827232493589/Budget.xlsx)
 
