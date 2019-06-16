@@ -39,3 +39,7 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 [Coordonnées par croisements](https://cdn.discordapp.com/attachments/589898423646420994/589921647876767776/3.xlsx)
 
+### Vidéo :
+
+[![Watch the video](https://cdn.discordapp.com/attachments/358708954454294538/585036461976584192/unknown.png]()
+
