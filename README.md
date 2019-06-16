@@ -12,7 +12,12 @@ Le robot suit une ligne noir sur un arriére plan blanc tracé au sol qui repré
 Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 ## Livrables :
-## Montage et schéma logique
+
+[Calendrier]()
+
+[Organigramme](https://cdn.discordapp.com/attachments/589898423646420994/589935639894425600/Organigramme.pdf)
+
+## Montage et schéma logique :
 
 [Montage du circuit](https://cdn.discordapp.com/attachments/589898423646420994/589932545106378858/Montage_et_description.pdf)
 
@@ -20,13 +25,11 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 [Schéma Logique des moteurs de gauches](https://cdn.discordapp.com/attachments/589898423646420994/589914884792385546/Moteurs_gauches.circ)
 
-### Les différents Composants avec descriptions :
+### Composants :
 
 [Tous les composants (Avec fonctionnalités)](https://cdn.discordapp.com/attachments/589898423646420994/589932578937503745/Tous_les_composants.pdf)
 
 [Budget](https://cdn.discordapp.com/attachments/589898423646420994/589918827232493589/Budget.xlsx)
-
-### Diagrammes de classe :
 
 ### Pathfinding
 #### Les différents tableaux :
