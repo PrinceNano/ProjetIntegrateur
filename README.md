@@ -17,7 +17,7 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 [Organigramme](https://cdn.discordapp.com/attachments/589898423646420994/589935639894425600/Organigramme.pdf)
 
-## Montage et schéma logique :
+### Montage et schéma logique :
 
 [Montage du circuit](https://cdn.discordapp.com/attachments/589898423646420994/589932545106378858/Montage_et_description.pdf)
 
