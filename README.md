@@ -1,9 +1,7 @@
 
 # ACAR la voiture autonome de 2019
 
-<p align="center">
-<https://cdn.discordapp.com/attachments/589812372240203777/589897131091951656/unknown.png/>
-</p>
+![alt text](https://cdn.discordapp.com/attachments/589812372240203777/589897131091951656/unknown.png)
 
 Ce projet a été réalisé par Olivia SIDIBE, Bruno CLAPPE, Jeremy CROSBY et Amine GHOUMID.
 
