@@ -17,6 +17,12 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 [Organigramme](https://cdn.discordapp.com/attachments/589898423646420994/589935639894425600/Organigramme.pdf)
 
+### Composants :
+
+[Tous les composants (Avec fonctionnalités)](https://cdn.discordapp.com/attachments/589898423646420994/589932578937503745/Tous_les_composants.pdf)
+
+[Budget](https://cdn.discordapp.com/attachments/589898423646420994/589918827232493589/Budget.xlsx)
+
 ### Montage et schéma logique :
 
 [Montage du circuit](https://cdn.discordapp.com/attachments/589898423646420994/589932545106378858/Montage_et_description.pdf)
@@ -24,12 +30,6 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 [Schéma Logique des moteurs de droites](https://cdn.discordapp.com/attachments/589898423646420994/589914812503294131/Moteurs_droits.circ)
 
 [Schéma Logique des moteurs de gauches](https://cdn.discordapp.com/attachments/589898423646420994/589914884792385546/Moteurs_gauches.circ)
-
-### Composants :
-
-[Tous les composants (Avec fonctionnalités)](https://cdn.discordapp.com/attachments/589898423646420994/589932578937503745/Tous_les_composants.pdf)
-
-[Budget](https://cdn.discordapp.com/attachments/589898423646420994/589918827232493589/Budget.xlsx)
 
 ### Pathfinding
 #### Les différents tableaux :
