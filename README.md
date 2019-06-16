@@ -29,9 +29,11 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 ## Livrables :
 
-[Calendrier]()
+[Calendrier](https://cdn.discordapp.com/attachments/589898423646420994/589942272410517545/unknown.png)
 
 [Organigramme](https://cdn.discordapp.com/attachments/589898423646420994/589935639894425600/Organigramme.pdf)
+
+[Carte mentale des fonctionnalités](https://cdn.discordapp.com/attachments/589898423646420994/589942547137298445/GetAttachmentThumbnail.png) 
 
 ### Composants :
 
