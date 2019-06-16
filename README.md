@@ -49,7 +49,7 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 ### Pathfinding
 #### Les différents tableaux :
-[Toutes directions](https://cdn.discordapp.com/attachments/589898423646420994/589921640197128202/1.xlsx)
+[Lien entre chaque noeuds](https://cdn.discordapp.com/attachments/589898423646420994/589921640197128202/1.xlsx)
 
 [Table de vérité](https://cdn.discordapp.com/attachments/589898423646420994/589921642684219393/2.xlsx)
 
