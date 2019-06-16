@@ -55,6 +55,9 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 [Coordonnées par croisements](https://cdn.discordapp.com/attachments/589898423646420994/589921647876767776/3.xlsx)
 
+#### Diagramme de classe :
+
+[ici]()
 
 ### Vidéo :
 
