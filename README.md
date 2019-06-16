@@ -53,7 +53,7 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 [Table de vérité](https://cdn.discordapp.com/attachments/589898423646420994/589921642684219393/2.xlsx)
 
-[Coordonnées par croisements](https://cdn.discordapp.com/attachments/589898423646420994/589921647876767776/3.xlsx)
+[Coordonnées par noeuds](https://cdn.discordapp.com/attachments/589898423646420994/589921647876767776/3.xlsx)
 
 #### Diagramme de classe :
 
