@@ -1,4 +1,4 @@
-# Projet Integrateur : la voiture autonome
+# ACAR la voiture autonome
 
 ![alt text](https://cdn.discordapp.com/attachments/589812372240203777/589897131091951656/unknown.png)
 
@@ -10,3 +10,6 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 ## Livrables
 ### Composants
+### Diagrammes de classe
+### Pathfinding
+#### Tableaux
