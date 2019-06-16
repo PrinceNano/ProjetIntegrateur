@@ -7,7 +7,7 @@ Ce projet a été réalisé par Olivia SIDIBE, Bruno CLAPPE, Jeremy CROSBY et Am
 
 Le but du projet est de créer un vehicule autonome suiveur de ligne capable de se situe dans une ville et de se deplacer en autonomie d'un endroit definie à un autre.
 
-##### Comment ça Marche?:
+##### Comment ça Marche?
 Le robot suit une ligne noir sur un arriére plan blanc tracé au sol qui représente le chemin a suivre, et pour faire cela le robot a besoin de quatre capteurs qui distingues la ligne noir de l'arriére plan blanc,  Tant que les deux capteurs ne détectent pas la ligne, le robot avance. Lorsqu'un des quatre capteurs détecte la ligne, le robot doit tourner dans la direction de ce dernier pour se mettre au milieu de la ligne ou tourner.
 
 Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
