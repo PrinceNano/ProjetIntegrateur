@@ -58,7 +58,7 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 #### Diagramme de classe :
 
-[ici]()
+[C'est par ici]()
 
 ### Vidéo :
 
