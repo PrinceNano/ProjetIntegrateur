@@ -15,16 +15,11 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 ## Sujet :
 
 [Check 0](https://moodle-exia.cesi.fr/mod/resource/view.php?id=14549)
-
-[Check 1](https://moodle-exia.cesi.fr/mod/resource/view.php?id=18927)
-
-[Check 2](https://moodle-exia.cesi.fr/mod/resource/view.php?id=14568)
-
-[Check 3]()
-
-[Check 4]()
-
-[Check 5]()
+ | [Check 1](https://moodle-exia.cesi.fr/mod/resource/view.php?id=18927)
+ | [Check 2](https://moodle-exia.cesi.fr/mod/resource/view.php?id=14568)
+ | [Check 3]()
+ | [Check 4]()
+ | [Check 5]()
 
 ## Livrables :
 
