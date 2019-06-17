@@ -5,12 +5,12 @@
 
 Ce projet a été réalisé par Olivia SIDIBE, Bruno CLAPPE, Jeremy CROSBY et Amine GHOUMID.
 
-Le but du projet est de créer un vehicule autonome suiveur de ligne capable de se situe dans une ville et de se deplacer en autonomie d'un endroit definie à un autre.
+Le but du projet est de créer un vehicule autonome suiveur de ligne capable de se situer dans une ville et de se déplacer en autonomie d'un endroit défini à un autre.
 
-##### Comment ça Marche?
-Le robot suit une ligne noir sur un arriére plan blanc tracé au sol qui représente le chemin a suivre, et pour faire cela le robot a besoin de quatre capteurs qui distingues la ligne noir de l'arriére plan blanc,  Tant que les deux capteurs ne détectent pas la ligne, le robot avance. Lorsqu'un des quatre capteurs détecte la ligne, le robot doit tourner dans la direction de ce dernier pour se mettre au milieu de la ligne ou tourner.
+##### Comment ça marche?
+Le robot suit une ligne noire sur un arrière plan blanc tracée au sol qui représente le chemin à suivre, et pour faire cela le robot a besoin de quatre capteurs qui distinguent la ligne noir de l'arrière plan blanc. Tant que les deux capteurs ne détectent pas la ligne, le robot avance. Lorsqu'un des quatre capteurs détecte la ligne, le robot doit tourner dans la direction de ce dernier pour se mettre au milieu de la ligne ou tourner.
 
-Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
+Les langages utilisés pour réaliser ceci sont Java et C Arduino.
 
 ## Sujet :
 
@@ -39,9 +39,9 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 [Montage du circuit](https://cdn.discordapp.com/attachments/589898423646420994/589932545106378858/Montage_et_description.pdf)
 
-[Schéma Logique des moteurs de droites](https://cdn.discordapp.com/attachments/589898423646420994/589914812503294131/Moteurs_droits.circ)
+[Schéma Logique des moteurs de droite](https://cdn.discordapp.com/attachments/589898423646420994/589914812503294131/Moteurs_droits.circ)
 
-[Schéma Logique des moteurs de gauches](https://cdn.discordapp.com/attachments/589898423646420994/589914884792385546/Moteurs_gauches.circ)
+[Schéma Logique des moteurs de gauche](https://cdn.discordapp.com/attachments/589898423646420994/589914884792385546/Moteurs_gauches.circ)
 
 ### Pathfinding
 #### Les différents tableaux :
@@ -49,7 +49,7 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 [Table de vérité](https://cdn.discordapp.com/attachments/589898423646420994/589921642684219393/2.xlsx)
 
-[Coordonnées par noeuds](https://cdn.discordapp.com/attachments/589898423646420994/589921647876767776/3.xlsx)
+[Coordonnées par noeud](https://cdn.discordapp.com/attachments/589898423646420994/589921647876767776/3.xlsx)
 
 #### Diagramme de classe :
 
