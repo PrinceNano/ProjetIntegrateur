@@ -11,6 +11,7 @@ Le but du projet est de créer un vehicule autonome suiveur de ligne capable de 
 Le robot suit une ligne noir sur un arriére plan blanc tracé au sol qui représente le chemin a suivre, et pour faire cela le robot a besoin de quatre capteurs qui distingues la ligne noir de l'arriére plan blanc,  Tant que les deux capteurs ne détectent pas la ligne, le robot avance. Lorsqu'un des quatre capteurs détecte la ligne, le robot doit tourner dans la direction de ce dernier pour se mettre au milieu de la ligne ou tourner.
 
 Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
+
 ## Sujet :
 
 [Check 0](https://moodle-exia.cesi.fr/mod/resource/view.php?id=14549)
@@ -35,7 +36,7 @@ Les langages utilisés pour réaliser ceci sont Java et C++ derivée (Arduino).
 
 ### Composants :
 
-[Tous les composants (Avec fonctionnalités)](https://cdn.discordapp.com/attachments/589898423646420994/589932578937503745/Tous_les_composants.pdf)
+[Fonctionnalités](https://cdn.discordapp.com/attachments/589898423646420994/589932578937503745/Tous_les_composants.pdf)
 
 [Budget](https://cdn.discordapp.com/attachments/589898423646420994/589918827232493589/Budget.xlsx)
 
